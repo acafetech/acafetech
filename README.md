@@ -1,4 +1,8 @@
-### Hi there 👋
+### Boas vindas a Café & Tech! ☕🖥️🚀
+
+Nossa missão é ajudar estudantes e profissionais na inserção e/ou transição de carreira no campo da tecnologia. Nosso público alvo são grupos sociais minoritários e de recortes de vulnerabilidade social. 
+
+Usando o formato de mentoria coletiva, aferecemos serviços de orientação de carreira e empregabilidade. Além do  desenvolvimento de soft e hard skills, para conquistar sua tão sonhada vaga na área tecnológica.
 
 <!--
 **acafetech/acafetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
